@@ -5,8 +5,6 @@ class Player {
     this.positionX = 0;
     this.positionY = 0;
     this.rank = 0;
-    this.fuel = 185;
-    this.life = 185;
     this.score = 0;
   }
 
